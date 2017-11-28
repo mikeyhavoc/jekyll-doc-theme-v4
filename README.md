@@ -29,7 +29,7 @@ Released under [the MIT license](LICENSE).
 ### Original 
 
 While I build my version with bootstrap v4.0 
-if you cannot wait and you cannot find it anywhere here is a jekyll-doc-theme with 3.7.7
+if you cannot wait and you cannot find it anywhere here is a jekyll-doc-theme with 3.3.7
 
 
 Go to [the website](https://aksakalli.github.io/jekyll-doc-theme/) for detailed information and demo.
