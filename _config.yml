@@ -1,13 +1,13 @@
 # Site settings
-title: Jekyll Doc Theme # title for you awesome blog or page.
-email: your-email@domain.com # your email. also
+title: Jekyll Doc Theme # title for your awesome blog or page.
+email: your-email@domain.com # your email.
 description: > # your amazing site description should go here.
   Jekyll Template for Project Websites
   providing documentation and blog post pages.
 
 #SEO helpers
 
-baseurl: "/jekyll-doc-theme" # the subpath of your site, e.g. /blog/
+baseurl: "/jekyll-doc-theme-v4" # the subpath of your site, e.g. /blog/, '
 url: https://mikeyhavoc.github.io/jekyll-doc-theme-v4 # the base hostname & protocol for your site
 git_address: https://github.com/mikeyhavoc/jekyll-doc-theme-v4
 git_edit_address: https://github.com/mikeyhavoc/jekyll-doc-theme/blob/gh-pages
