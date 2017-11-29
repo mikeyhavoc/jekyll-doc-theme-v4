@@ -6,9 +6,9 @@ description: > # your amazing site description should go here.
   providing documentation and blog post pages.
 
 baseurl: "/jekyll-doc-theme" # the subpath of your site, e.g. /blog/
-url: https://aksakalli.github.io/jekyll-doc-theme # the base hostname & protocol for your site
-git_address: https://github.com/aksakalli/jekyll-doc-theme
-git_edit_address: https://github.com/aksakalli/jekyll-doc-theme/blob/gh-pages
+url: https://mikeyhavoc.github.io/jekyll-doc-theme-v4 # the base hostname & protocol for your site
+git_address: https://github.com/mikeyhavoc/jekyll-doc-theme-v4
+git_edit_address: https://github.com/mikeyhavoc/jekyll-doc-theme/blob/gh-pages
 
 # theme options from https://bootswatch.com/
 # comment out this to use default Bootstrap
