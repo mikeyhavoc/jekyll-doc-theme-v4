@@ -39,6 +39,8 @@ defaults:
   values:
     layout: post
     sectionid: blog
+    seo:
+      type: "WebPage"
 
 - scope:
     path: _docs
