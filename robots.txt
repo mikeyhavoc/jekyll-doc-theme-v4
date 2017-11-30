@@ -1,5 +1,5 @@
 ---
-~# need the layout lines so the file will be read
+# need the layout lines so the file will be read
 ---
 
 # www.robotstxt.org
