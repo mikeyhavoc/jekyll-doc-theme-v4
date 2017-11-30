@@ -1,2 +1,9 @@
+---
+# need the layout lines so the file will be read
+---
+
+# www.robotstxt.org
+
 User-Agent: *
+Disallow:
 Sitemap: {{ site.url }}/sitemap.xml
