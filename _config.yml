@@ -1,7 +1,7 @@
 # Site settings
 title: Jekyll Doc Theme # title for your awesome blog or page.
 email: your-email@domain.com # your email.
-description: > # your amazing site description should go here.
+description: > # your amazing site description should go here.160 char.max.
   Jekyll Template for Project Websites
   providing documentation and blog post pages.
 
