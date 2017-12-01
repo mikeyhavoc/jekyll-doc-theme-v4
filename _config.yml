@@ -6,9 +6,13 @@ description: # 160 characters or less for seo
   providing documentation and blog post pages.
 
 baseurl: "/jekyll-doc-theme-v4" # the subpath of your site, e.g. /blog/
-url: https://mikeyhavoc.github.io/jekyll-doc-theme-4 # the base hostname & protocol for your site
+# baseurl -> should be your sub path to your site/blog wherever it is.
+url: https://mikeyhavoc.github.io/jekyll-doc-theme-4
+# URL -> the base hostname & protocol for your site
 git_address: https://github.com/mikeyhavoc/jekyll-doc-theme-4
+# git_address -> your link to the github address to your build.
 git_edit_address: https://github.com/aksakalli/jekyll-doc-theme/blob/gh-pages
+# have not figured this one out yet. sorry.
 
 # theme options from https://bootswatch.com/
 # comment out this to use default Bootstrap
