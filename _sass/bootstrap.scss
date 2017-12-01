@@ -7,7 +7,7 @@
 // core functions, variables, and mixins.
 @import "bootstrap4/functions";
 @import "bootstrap4/variables";
-@import "bootstrap4/mixins";
+@import "bootstrap4/mixin/mixins";
 // root styles, print style, and reboot.
 @import "bootstrap4/root";
 @import "bootstrap4/print";
@@ -44,4 +44,4 @@
 @import "bootstrap4/popover";
 // utilities classes
 @import "bootstrap4/carousel";
-@import "bootstrap4/utilities";
+@import "bootstrap4/utiltiy/utilities";
