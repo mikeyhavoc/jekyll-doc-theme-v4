@@ -16,7 +16,7 @@ git_edit_address: https://github.com/mikeyhavoc/jekyll-doc-theme-v4/blob/gh-page
 
 # theme options from https://bootswatch.com/
 # comment out this to use default Bootstrap
-bootwatch: cerulean
+bootswatch: cerulean
 
 # Build settings
 markdown: kramdown
@@ -27,7 +27,8 @@ gems:
   - jekyll-seo-tag
   - jekyll-sitemap
 sass:
-    load_paths:
+# load_paths to add more paths.
+    load_paths: 
        - _sass
        - node_modules
 
