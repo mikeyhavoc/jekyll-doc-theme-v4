@@ -11,7 +11,7 @@ url: https://mikeyhavoc.github.io/jekyll-doc-theme-4
 # URL -> the base hostname & protocol for your site
 git_address: https://github.com/mikeyhavoc/jekyll-doc-theme-4
 # git_address -> your link to the github address to your build.
-git_edit_address: https://github.com/aksakalli/jekyll-doc-theme-v4/blob/gh-pages
+git_edit_address: https://github.com/mikeyhavoc/jekyll-doc-theme-v4/blob/gh-pages
 # have not figured this one out yet. sorry.
 
 # theme options from https://bootswatch.com/
